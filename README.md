@@ -2,7 +2,7 @@
 ###
 
 
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-King-00)](https://github.com/T-King-00/github-readme-stats)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-King-00)]
 
 <!--
 **T-King-00/T-King-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
