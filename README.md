@@ -3,7 +3,8 @@
 
 - My Name is Tony
 - 👨‍💻  Studied Software Engineering at Ain Shams University In Egypt.
-- 🔭  Studying .Net fullstack diplom at [Lexicon](https://lexicongruppen.se/) 
+- 🔭  Studying .Net fullstack diplom at [Lexicon](https://lexicongruppen.se/)
+- 🌱  Learning more about DevOps 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=T-King-00&theme=dark&hide_border=true&locale=sv&hide_longest_streak=true)](https://git.io/streak-stats)
 
