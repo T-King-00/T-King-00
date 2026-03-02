@@ -1,6 +1,6 @@
 ## Hi there 👋
 ###
-
+[![T-King-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-King-00)](https://github.com/anuraghazra/github-readme-stats)
 ![T-King-00's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-King-00&hide=contribs,prs)
 <!--
 **T-King-00/T-King-00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
