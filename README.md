@@ -2,7 +2,7 @@
 ###
 
 - My Name is Tony.
-- 👨‍💻  Studied Software Engineering at Ain Shams University In Egypt.
+- 👨‍💻  Studied Bachelor's Degree in Software Engineering at Ain Shams University In Egypt.
 - 🔭  I’m currently studying .Net Full-stack diploma at [Lexicon](https://lexicongruppen.se/).
 - 🌱  Learning more about DevOps .
 
