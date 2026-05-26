@@ -2,8 +2,8 @@
 ###
 
 - My Name is Tony.
+- 🔭  Currently studying .Net Full-stack diploma at [Lexicon](https://lexicongruppen.se/).
 - 👨‍💻  Studied Bachelor's Degree in Software Engineering at Ain Shams University In Egypt.
-- 🔭  I’m currently studying .Net Full-stack diploma at [Lexicon](https://lexicongruppen.se/).
 - 🌱  Learning more about DevOps .
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=T-King-00&theme=dark&hide_border=true&locale=sv&hide_longest_streak=true)](https://git.io/streak-stats)
