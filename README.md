@@ -2,7 +2,7 @@
 ###
 
 - My Name is Tony.
-- 🔭  Currently studying .Net Full-stack diploma at [Lexicon](https://lexicongruppen.se/).
+- 🔭  Recently finished studying .Net Full-stack diploma at [Lexicon](https://lexicongruppen.se/).
 - 👨‍💻  Studied Bachelor's Degree in Software Engineering at Ain Shams University In Egypt.
 - 🌱  Learning more about DevOps .  
   
